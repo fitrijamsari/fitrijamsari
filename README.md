@@ -7,9 +7,9 @@ I'm a Certified AWS Machine Learning Specialty and Cloud Practitioner with 4-yea
 
 - 🔭 Currently, I'm actively contributing to projects that push the boundaries of machine learning and cloud computing, while also sharing insights and expertise through various channels.
 
-- 👯 I’m looking to collaborate on **any machine learning related projects in data science, computer vission and large language model**
+- 👯 I’m looking to collaborate on any machine learning related projects in data science, computer vission and large language model
 
-- 📫 Let's connect and collaborate on exciting projects together! How to reach me **fitrijamsari@gmail.com**
+- 📫 Let's connect and collaborate on exciting projects together!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
